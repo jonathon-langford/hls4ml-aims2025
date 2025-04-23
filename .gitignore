@@ -1,0 +1,3 @@
+*.npy
+model_1/*
+.ipynb_checkpoints/*
